@@ -13,7 +13,7 @@ namespace loginPortalProject.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult AirportInfo()
         {
             ViewBag.Message = "Your application description page.";
 
